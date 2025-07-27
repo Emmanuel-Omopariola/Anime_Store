@@ -1,5 +1,5 @@
 # <span style="color: #ff6ec7">Anime Discovery Platform</span>
-(https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
 An interactive anime browsing application powered by Next.js 14, incorporating advanced server-side functionality, dynamic content loading, and fluid motion graphics for an exceptional user experience.
 
 ## <span style="color: #7c3aed">Key Capabilities</span>
