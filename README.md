@@ -2,7 +2,7 @@
 ![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
 An interactive anime browsing application powered by Next.js 14, incorporating advanced server-side functionality, dynamic content loading, and fluid motion graphics for an exceptional user experience.
 
-## <span style="color: #7c3aed">Key Capabilities Live Demo: https://anime-store-tau.vercel.app/
+## <span style="color: #7c3aed">Key Capabilities Live Demo: https://animeore-tau.vercel.app/
 </span>
 
 - **Advanced SSR**: Utilizes Next.js 14's cutting-edge server-side rendering for lightning-fast performance and enhanced search engine optimization
@@ -76,9 +76,3 @@ yarn dev
 ## Project Creator
 
 **emmaculate_eth**
-
-## Special Recognition
-
-- Next.js development team for their innovative framework
-- Framer Motion contributors for exceptional animation capabilities
-- Tailwind CSS team for their utility-focused styling approach
